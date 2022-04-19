@@ -1,5 +1,3 @@
-import javax.swing.SpinnerDateModel;
-
 public class QuotientAndReminder {
     public static void main(String[] args) {
         int num = 7;
